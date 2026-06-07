@@ -14,7 +14,7 @@ https://discord.com/channels/1445149049068982395/1445394656677335156/15129489697
 
 # Solutions
 
-## Official method
+## Official method (doesn't work)
 
 The official solution is to clear the site data.
 
