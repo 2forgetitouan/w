@@ -4,13 +4,9 @@ Since June 7, 2026, a server-side change in Arras.io has prevented players from 
 
 ## Why is shooting blocked?
 
-The developers of Arras.io deployed a change likely aimed at reducing abuse from bots and proxy usage.
+Shooting is blocked because Arras.io uses a client age check based on the build timestamp. Since the game client has not been updated for a while, the server incorrectly considers it outdated and disables shooting after a certain period. This script updates the timestamp sent to the server, making the client appear up to date.
 
-Following this update, the following message appears when trying to shoot:
-
-> You will not be able to shoot because your client is out of date! Please reload and clear your cache.
-
-Original announcement:
+Unofficial arras announcement:
 
 https://discord.com/channels/1445149049068982395/1445394656677335156/1512948969733357598
 
