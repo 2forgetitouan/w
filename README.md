@@ -52,7 +52,7 @@ Compatible with most userscript managers (Tampermonkey, Violentmonkey, etc.)
 ### Installation
 
 1. Install your preferred extension
-2. Create a new userscript
+2. Create a new userscript ([or install it directly](https://greasyfork.org/fr/scripts/581537-arras-fix-shooting))
 3. Remove the default content
 4. Paste the content of `script.js`
 5. Save the script
